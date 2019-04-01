@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Bronze Sword",
+    "Attack": 3,
+    "Defense": 2,
+    "Buy Price": 10,
+    "Sell Price": 5,
+    "Rarity Level": 15
+  },
+  {
+    "Name": "Iron Sword",
+    "Attack": 10,
+    "Defense": 7,
+    "Buy Price": 20,
+    "Sell Price": 10,
+    "Rarity Level": 50
+  },
+  {
+    "Name": "Silver Sword",
+    "Attack": 20,
+    "Defense": 9,
+    "Buy Price": 50,
+    "Sell Price": 25,
+    "Rarity Level": 100
+  }
+]

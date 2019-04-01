@@ -1,0 +1,14 @@
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\RPGWinForms.exe.config
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\RPGWinForms.exe
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\RPGWinForms.pdb
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.Properties.Resources.resources
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.csproj.GenerateResource.cache
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.csproj.CoreCompileInputs.cache
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.exe
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.pdb
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.Form1.resources
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.csprojAssemblyReference.cache
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\Newtonsoft.Json.dll
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\Newtonsoft.Json.pdb
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\bin\Debug\Newtonsoft.Json.xml
+c:\users\reedchr001\source\repos\RPGWinForms\RPGWinForms\obj\Debug\RPGWinForms.csproj.CopyComplete

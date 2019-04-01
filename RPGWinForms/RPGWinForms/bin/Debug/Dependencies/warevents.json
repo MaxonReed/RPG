@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "None",
+    "Desc": "Nothing happens.",
+    "Chance": 775
+  },
+  {
+    "Name": "Attack",
+    "Desc": "Nation who declared war attacks",
+    "Chance": 600
+  },
+  {
+    "Name": "Defend",
+    "Desc": "Nation who was declared war attacks",
+    "Chance": 400
+  },
+  {
+    "Name": "End War",
+    "Desc": "The war ends",
+    "Chance": 200
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Elves",
+    "Intelligence": 20,
+    "BaseAttack": 10,
+    "BaseDefense": 4
+  },
+  {
+    "Name": "Orcs",
+    "Intelligence": 7,
+    "BaseAttack": 20,
+    "BaseDefense": 10
+  },
+  {
+    "Name": "Humans",
+    "Intelligence": 26,
+    "BaseAttack": 7,
+    "BaseDefense": 5
+  },
+  {
+    "Name": "Stronnothyes",
+    "Intelligence": 40,
+    "BaseAttack": 12,
+    "BaseDefense": 2
+  }
+]

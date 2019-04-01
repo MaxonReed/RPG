@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "None",
+    "Desc": "Nothing happens",
+    "Chance": 90000,
+    "Rate": 0
+  },
+  {
+    "Name": "Chain Event",
+    "Desc": "More than one event takes place",
+    "Chance": 1000,
+    "Rate": 40
+  },
+  {
+    "Name": "Population Up",
+    "Desc": "Population increases based on the amount of people in the faction",
+    "Chance": 2000,
+    "Rate": -10
+  },
+  {
+    "Name": "Population Down",
+    "Desc": "Population decreases based on the amount of people in the faction",
+    "Chance": 9000,
+    "Rate": 20
+  },
+  {
+    "Name": "War Declaration",
+    "Desc": "War is declared on an opposing faction, factions can be destroyed or wounded from this.",
+    "Chance": 100,
+    "Rate": 3
+  },
+  {
+    "Name": "Famine",
+    "Desc": "Famine in which there is a high chance for a city to be wiped out.",
+    "Chance": 500,
+    "Rate": 30
+  },
+  {
+    "Name": "Discovery",
+    "Desc": "Chance at discovery based on intelligence",
+    "Chance": 150,
+    "Rate": 5
+  },
+  {
+    "Name": "New Faction",
+    "Desc": "A new faction is created from the current population",
+    "Chance": 40,
+    "Rate": 1
+  }
+]
